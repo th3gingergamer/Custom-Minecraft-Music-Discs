@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Music Discs",
+    "name": "PIGSTEP",
+    "uuid": "ba822152-834d-11eb-abe9-c3dcfc98090a",
+    "version": [1, 0, 5],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Custom Music Discs",
+      "type": "resources",
+      "uuid": "c12aa682-834d-11eb-9b40-8f3aacc2a864",
+      "version": [1, 0, 5]
+    }
+  ]
+}
